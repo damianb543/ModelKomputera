@@ -1,0 +1,6 @@
+﻿PRODUCENT;MODEL;CENA;GWARANCJA;ILOSC;PAMIEC;RODZAJ PAMIECI;ZLACZA
+4
+Gigabyte;GeForce GTX 1060 WindForce II;1139.0;36 miesięcy;2;6;GDDR5;HDMI - 1 szt., DVI - 2 szt., DisplayPort - 1 szt.
+ASUS;Radeon RX 570;899.0;36 miesięcy;5;4;GDDR5;HDMI - 1 szt., DVI - 1 szt., DisplayPort - 1 szt.
+MSI;GeForce RTX 2070 ARMOR;2379.0;36 miesięcy;3;8;GDDR6;HDMI - 1 szt., DisplayPort - 3 szt., USB-C
+MSI;GeForce GTX 1060 3GT;889.0;36 miesięcy;0;3;GDDR5;HDMI - 1 szt., DVI - 1 szt., DisplayPort - 1 szt.

@@ -1,0 +1,6 @@
+﻿PRODUCENT;MODEL;CENA;GWARANCJA;ILOSC;WAGA;WYSOKOSC;SZEROKOSC;GLEBOKOSC;STANDARD PLYTY;MATERIAL
+4
+SilentiumPC;Regnum RG4T Pure Black;189.0;24 miesiące;5;5.6;496;205;450;ATX, microATX, Mini-ITX;Stal, Tworzywo sztuczne
+SilentiumPC;Armis AR1;99.0;24 miesiące;4;2.8;415;193;372;ATX, microATX, Mini-ITX;Stal, Tworzywo sztuczne
+be quiet!;Pure Base 600;369.0;36 miesięcy;1;7.5;445;220;492;ATX, microATX, Mini-ITX;Stal SECC 0,8 mm, Tworzywo sztuczne
+MSI;Mag Pylon;499.0;24 miesiące;5;8.4;470;218;440;ATX, m-ATX, Mini-ITX;Szkło, Stal

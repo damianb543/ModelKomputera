@@ -1,0 +1,6 @@
+﻿PRODUCENT;MODEL;CENA;GWARANCJA;ILOSC;MOC;STANDARD;SPRAWNOSC;CERTYFIKAT
+4
+SilentiumPC;Vero L2 Bronze;179.0;36 miesięcy;4;500;ATX;87% przy 230V oraz 20-100% obciążeniu;80 PLUS Bronze
+be quiet!;System Power 9;215.0;36 miesięcy;10;500;ATX;86-89% przy 230V oraz 20-100% obciążeniu;80 PLUS Bronze
+Seasonic;Focus Plus;419.0;120 miesięcy;2;650;ATX;90-92% przy 230V oraz 20-100% obciążeniu;80 PLUS Gold
+be quiet!;Pure Power 10 CM;349.0;36 miesięcy;3;600;ATX;91% przy 230V oraz 20-100% obciążeniu;80 PLUS Silver

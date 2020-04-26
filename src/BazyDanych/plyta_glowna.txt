@@ -1,0 +1,6 @@
+﻿PRODUCENT;MODEL;CENA;GWARANCJA;ILOSC;OBSLUGIWANE PROCESORY;FORMAT;GNIAZDO PROCESORA;CHIPSET
+4
+MSI;B450-A PRO;399.0;36 miesięcy;0;AMD Ryzen;ATX;Socket AM4;AMD B450
+ASRock;Z370 Pro4;439.0;36 miesięcy;2;Intel Core i7 8 generacja, Intel Core i5 8 generacja, Intel Core i3 8 generacja;ATX;Socket 1151;Intel Z370
+MSI;X470 GAMING PLUS;589.0;36 miesięcy;5;AMD Ryzen;ATX;Socket AM4;AMD X470
+Gigabyte;Z370 AORUS Gaming K3;529.0;36 miesięcy;6;Intel Core i7 8 generacja, Intel Core i5 8 generacja, Intel Core i3 8 generacja;ATX;Socket 1151;Intel Z370

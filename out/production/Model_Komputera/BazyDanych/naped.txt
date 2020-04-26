@@ -1,0 +1,6 @@
+﻿PRODUCENT;MODEL;CENA;GWARANCJA;ILOSC;RODZAJ NAPEDU;INTERFEJS;ZAPIS;ODCZYT
+4
+lite-On;iHAS122-14;49.0;24 miesiące;0;Wewnętrzny;SATA;DVD±R - 22x, DVD+RW - 8x, DVD-RW - 6x, CD-R - 48x, CD-RW - 24x;DVD-ROM - 16x, CD-ROM - 48x
+ASUS;SDRW-08D2S-U Slim;125.0;24 miesiące;2;Zewnętrzny;USB 2.0;DVD±R - 8x, DVD±R DL - 6x, DVD-RAM - 5x, DVD+RW - 8x, DVD-RW - 6x, CD-R - 24x, CD-RW - 24x;DVD-ROM - 8x, CD-ROM - 24x
+Lite-On;eBAU108 Slim;79.0;24 miesiące;5;Zewnętrzny;USB 2.0;DVD±R - 8x, DVD±R DL - 8x, DVD-RAM - 5x, DVD-RW - 8x, CD-R - 24x;DVD-ROM - 8x, CD-ROM - 24x
+LG;BH16NS55;289.0;24 miesiące;13;Wewnętrzny;SATA;BD-R - 16x, BD-R DL - 16x, BD-RE - 2x, DVD±R - 16x, DVD±R DL - 8x, DVD-RAM - 12x, DVD+RW - 8x, DVD-RW - 8x, CD-R - 48x, CD-RW - 24x;BD-R - 12x, DVD-ROM - 16x, DVD-RAM - 12x, CD-R - 48x

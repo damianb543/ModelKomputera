@@ -1,0 +1,6 @@
+﻿PRODUCENT;MODEL;CENA;GWARANCJA;ILOSC;TYP;WENTYLATOR
+4
+SilentiumPC;Fera3 HE1224 v2;105.0;24 miesiące;3;Aktywne;120 mm
+be quiet!;Dark Rock Pro 4;329.0;36 miesięcy;2;Aktywne;120 mm oraz 135 mm
+NZXT;Kraken X62 v.2;635.0;72 miesiące;1;Wodne;140 mm
+SilentiumPC;Navis Pro 240;279.0;60 miesięcy;3;Wodne;120 mm - 2szt.
